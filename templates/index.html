@@ -1,0 +1,928 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>ETF iNAV Tracker</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@300;400;500&display=swap"
+        rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #0f172a;
+            --secondary: #1e293b;
+            --tertiary: #334155;
+            --accent: #3b82f6;
+            --accent-alt: #8b5cf6;
+            --success: #10b981;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --text-primary: #f1f5f9;
+            --text-secondary: #cbd5e1;
+            --text-muted: #94a3b8;
+            --border: #475569;
+            --border-light: rgba(255, 255, 255, 0.08);
+            color-scheme: dark;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            font-family: 'Roboto', system-ui, -apple-system, Segoe UI, sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1a1f35 50%, #0f172a 100%);
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Header Section */
+        .header {
+            margin-bottom: 32px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 24px;
+        }
+
+        .header-content h1 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header-content p {
+            color: var(--text-secondary);
+            font-size: 15px;
+            line-height: 1.6;
+            max-width: 600px;
+        }
+
+        .header-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%);
+            border: 1px solid var(--border-light);
+            border-radius: 8px;
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        .badge-dot {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: #10b981;
+            border-radius: 50%;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        /* Card */
+        .card {
+            background: linear-gradient(135deg, rgba(30, 41, 59, 0.5) 0%, rgba(15, 23, 42, 0.5) 100%);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            backdrop-filter: blur(10px);
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Controls Section */
+        .controls-section {
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--border-light);
+            background: linear-gradient(180deg, rgba(255, 255, 255, 0.02) 0%, transparent 100%);
+        }
+
+        .controls-wrapper {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .filter-group label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .filter-select {
+            padding: 10px 16px;
+            background: var(--tertiary);
+            color: var(--text-primary);
+            border: 1px solid var(--border-light);
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .filter-select:hover {
+            border-color: var(--accent);
+            background: var(--secondary);
+        }
+
+        .filter-select:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+
+        .stats-info {
+            display: flex;
+            gap: 16px;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .stat-label {
+            font-weight: 600;
+            color: var(--accent);
+        }
+
+        /* Table Section */
+        .table-container {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+            overflow-y: visible;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        thead {
+            background: linear-gradient(90deg, rgba(59, 130, 246, 0.08) 0%, rgba(139, 92, 246, 0.08) 100%);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        th {
+            padding: 16px;
+            text-align: left;
+            color: var(--text-primary);
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 2px solid var(--border-light);
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        th:hover {
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--accent);
+        }
+
+        th.sorted-asc::after,
+        th.sorted-desc::after {
+            content: '';
+            display: inline-block;
+            width: 0;
+            height: 0;
+            margin-left: 8px;
+            border-left: 4px solid transparent;
+            border-right: 4px solid transparent;
+        }
+
+        th.sorted-asc::after {
+            border-bottom: 5px solid var(--accent);
+        }
+
+        th.sorted-desc::after {
+            border-top: 5px solid var(--accent);
+        }
+
+        th:nth-child(2),
+        th:nth-child(3),
+        th:nth-child(4),
+        th:nth-child(5) {
+            text-align: right;
+        }
+
+        tbody tr {
+            border-bottom: 1px solid var(--border-light);
+            transition: all 0.2s ease;
+        }
+
+        tbody tr:hover {
+            background: rgba(59, 130, 246, 0.05);
+        }
+
+        td {
+            padding: 16px;
+            color: var(--text-primary);
+        }
+
+        td:nth-child(2),
+        td:nth-child(3),
+        td:nth-child(4),
+        td:nth-child(5) {
+            text-align: right;
+            font-weight: 500;
+        }
+
+        .etf-name {
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .etf-symbol {
+            display: block;
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 4px;
+            font-weight: 400;
+            letter-spacing: 0.5px;
+        }
+
+        .na-value {
+            color: var(--text-muted);
+            font-style: italic;
+            font-weight: 400;
+            opacity: 0.6;
+        }
+
+        .price-value {
+            font-family: 'Courier New', monospace;
+            font-weight: 600;
+        }
+
+        .discount {
+            font-weight: 700;
+            padding: 4px 12px;
+            border-radius: 6px;
+            display: inline-block;
+        }
+
+        .discount.positive {
+            color: var(--success);
+            background: rgba(16, 185, 129, 0.1);
+        }
+
+        .discount.negative {
+            color: var(--danger);
+            background: rgba(239, 68, 68, 0.1);
+        }
+
+        .discount.neutral {
+            color: var(--text-secondary);
+            background: rgba(100, 116, 139, 0.1);
+        }
+
+        /* Pagination */
+        .pagination-container {
+            padding: 20px 24px;
+            border-top: 1px solid var(--border-light);
+            background: linear-gradient(180deg, transparent 0%, rgba(255, 255, 255, 0.02) 100%);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .pagination-info {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .pagination-info strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .pagination-buttons {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .pagination-btn {
+            padding: 8px 12px;
+            background: var(--secondary);
+            color: var(--text-primary);
+            border: 1px solid var(--border-light);
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            min-width: 40px;
+            text-align: center;
+        }
+
+        .pagination-btn:hover:not(:disabled) {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+        }
+
+        .pagination-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .pagination-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+        }
+
+        .pagination-ellipsis {
+            color: var(--text-muted);
+            padding: 0 4px;
+            font-weight: 600;
+        }
+
+        /* Empty State */
+        .empty-state {
+            padding: 60px 24px;
+            text-align: center;
+        }
+
+        .empty-state-icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+            opacity: 0.5;
+        }
+
+        .empty-state-text {
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+
+        .empty-state-subtext {
+            color: var(--text-muted);
+            font-size: 13px;
+        }
+
+        /* Feedback Section */
+        .feedback-section {
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 32px;
+            background: rgba(139, 92, 246, 0.1);
+            /* Light purple background */
+            border: 1px solid rgba(139, 92, 246, 0.3);
+            border-radius: 12px;
+        }
+
+        .feedback-section p {
+            color: var(--text-secondary);
+            font-size: 15px;
+            margin-bottom: 16px;
+        }
+
+        .feedback-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 20px;
+            background: var(--accent-alt);
+            /* Purple accent */
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 14px;
+            transition: background 0.2s ease;
+            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);
+        }
+
+        .feedback-btn:hover {
+            background: #a78bfa;
+            /* Lighter purple on hover */
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header-content h1 {
+                font-size: 28px;
+            }
+
+            th,
+            td {
+                padding: 14px 12px;
+                font-size: 13px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header-top {
+                flex-direction: column;
+                gap: 16px;
+            }
+
+            .controls-wrapper {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filter-group {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filter-select {
+                width: 100%;
+            }
+
+            .stats-info {
+                flex-direction: column;
+            }
+
+            .pagination-container {
+                flex-direction: column-reverse;
+            }
+
+            table {
+                font-size: 13px;
+            }
+
+            th,
+            td {
+                padding: 12px 8px;
+            }
+
+            th:nth-child(4),
+            th:nth-child(5),
+            td:nth-child(4),
+            td:nth-child(5) {
+                display: none;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 12px;
+            }
+
+            .header-content h1 {
+                font-size: 24px;
+            }
+
+            .header-content p {
+                font-size: 13px;
+            }
+
+            th,
+            td {
+                padding: 10px 6px;
+                font-size: 12px;
+            }
+
+            .etf-symbol {
+                font-size: 11px;
+            }
+
+            .pagination-btn {
+                padding: 6px 10px;
+                min-width: 36px;
+            }
+
+            .pagination-info {
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-top">
+                <div class="header-content">
+                    <h1>ETF iNAVTracker</h1>
+                    <p>Track ETF prices, iNAV values, and discount premiums in real-time. Sort by any column, filter by
+                        category, and monitor fund performance.</p>
+                </div>
+                <div class="header-badge">
+                    <span class="badge-dot"></span>
+                    <span>Live Data</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="controls-section">
+                <div class="controls-wrapper">
+                    <div class="filter-group">
+                        <label for="category-filter">Filter by Category:</label>
+                        <select id="category-filter" class="filter-select">
+                            <option value="all">All Categories</option>
+                            {% for cat in categories %}
+                            <option value="{{ cat }}">{{ cat }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="stats-info">
+                        <div class="stat-item">
+                            <span class="stat-label" id="total-count">0</span>
+                            <span>Funds Total</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label" id="filtered-count">0</span>
+                            <span>Shown</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <div class="table-wrapper">
+                    <table id="inav-table" role="table">
+                        <thead>
+                            <tr>
+                                <th data-type="text" scope="col">ETF Name</th>
+                                <th data-type="number" scope="col">Last Traded Price (₹)</th>
+                                <th data-type="number" scope="col">iNav Price (₹)</th>
+                                <th data-type="number" scope="col">AUM (₹ cr)</th>
+                                <th data-type="number" scope="col">Discount %</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for etf in etfs %}
+                            <tr data-category="{{ etf.category }}">
+                                <td>
+                                    <div class="etf-name">{{ etf.name }}</div>
+                                    <span class="etf-symbol">{{ etf.symbol }}</span>
+                                </td>
+                                <td data-value="{{ etf.ltp if etf.ltp == etf.ltp else '' }}" class="price-value">
+                                    {% if etf.ltp == etf.ltp %}₹ {{ '{:,.2f}'.format(etf.ltp) }}{% else %}<span
+                                        class="na-value">—</span>{% endif %}
+                                </td>
+                                <td data-value="{{ etf.inav if etf.inav == etf.inav else '' }}" class="price-value">
+                                    {% if etf.inav == etf.inav %}₹ {{ '{:,.2f}'.format(etf.inav) }}{% else %}<span
+                                        class="na-value">—</span>{% endif %}
+                                </td>
+                                <td data-value="{{ etf.aum if etf.aum == etf.aum else '' }}" class="price-value">
+                                    {% if etf.aum == etf.aum %}₹ {{ '{:,.2f}'.format(etf.aum) }}{% else %}<span
+                                        class="na-value">—</span>{% endif %}
+                                </td>
+                                <td data-value="{{ etf.discount if etf.discount == etf.discount else '' }}">
+                                    {% if etf.discount == etf.discount %}
+                                    <span
+                                        class="discount {% if etf.discount > 0 %}positive{% elif etf.discount < 0 %}negative{% else %}neutral{% endif %}">
+                                        {{ '{:+.2f}%'.format(etf.discount) }}
+                                    </span>
+                                    {% else %}
+                                    <span class="na-value">—</span>
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div id="empty-state" class="empty-state" style="display:none;">
+                    <div class="empty-state-icon">🔍</div>
+                    <div class="empty-state-text">No ETFs found</div>
+                    <div class="empty-state-subtext">Try adjusting your filters or check back later</div>
+                </div>
+            </div>
+
+            <div class="pagination-container">
+                <div class="pagination-info">
+                    Showing <strong id="page-start">0</strong>–<strong id="page-end">0</strong> of <strong
+                        id="total-visible">0</strong>
+                </div>
+                <div class="pagination-buttons" id="pagination-controls"></div>
+            </div>
+        </div>
+        <div class="feedback-section">
+            <p>We value your feedback! Help us improve this tool by filling out a quick survey:</p>
+            <a href="https://forms.gle/ay2M2ZqXdpMseJ6L7" target="_blank" class="feedback-btn">
+                Provide Feedback <span aria-hidden="true">→</span>
+            </a>
+        </div>
+    </div>
+
+    <script>
+        (function () {
+            const table = document.getElementById('inav-table');
+            const thead = table.tHead;
+            const tbody = table.tBodies[0];
+            const filterSelect = document.getElementById('category-filter');
+            const paginationContainer = document.getElementById('pagination-controls');
+            const emptyState = document.getElementById('empty-state');
+            const tableContainer = document.querySelector('.table-container');
+
+            // Stats elements
+            const totalCountEl = document.getElementById('total-count');
+            const filteredCountEl = document.getElementById('filtered-count');
+            const pageStartEl = document.getElementById('page-start');
+            const pageEndEl = document.getElementById('page-end');
+            const totalVisibleEl = document.getElementById('total-visible');
+
+            let sortState = { index: 4, dir: -1 }; // Default: sort by Discount desc
+            let currentPage = 1;
+            const rowsPerPage = 10;
+            let allRows = [];
+
+            // Initialize allRows from DOM
+            function initializeRows() {
+                allRows = Array.from(tbody.rows);
+                totalCountEl.textContent = allRows.length;
+            }
+
+            function parseNumberCell(td) {
+                const dv = td.getAttribute('data-value');
+                // If data-value attribute exists but is empty string -> missing
+                if (dv !== null) {
+                    if (dv === '') return -Infinity; // explicit missing marker
+                    const num = Number(dv);
+                    return num;
+                }
+                const txt = td.textContent.trim().replace(/,/g, '').replace(/%/g, '').replace(/₹/g, '').replace(/—/g, '');
+                const n = Number(txt);
+                // If the cell contains empty text, treat as missing
+                if (txt === '') return -Infinity;
+                return isNaN(n) ? txt.toLowerCase() : n;
+            }
+
+            function getCellValue(row, idx) {
+                return row.cells[idx];
+            }
+
+            function clearSortedClasses() {
+                for (const th of thead.querySelectorAll('th')) {
+                    th.classList.remove('sorted-asc', 'sorted-desc');
+                }
+            }
+
+            function sortTableByColumn(idx, type, dirOverride) {
+                let dir = dirOverride !== undefined ? dirOverride : 1;
+
+                if (sortState.index === idx && dirOverride === undefined) {
+                    dir = -sortState.dir; // toggle direction
+                }
+
+                const comparator = (a, b) => {
+                    const acell = getCellValue(a, idx);
+                    const bcell = getCellValue(b, idx);
+                    let aval = acell ? (type === 'number' ? parseNumberCell(acell) : acell.textContent.trim().toLowerCase()) : '';
+                    let bval = bcell ? (type === 'number' ? parseNumberCell(bcell) : bcell.textContent.trim().toLowerCase()) : '';
+
+                    const aIsNum = typeof aval === 'number' && !isNaN(aval);
+                    const bIsNum = typeof bval === 'number' && !isNaN(bval);
+
+                    // Handle -Infinity (missing values) - always push to bottom
+                    const aIsMissing = aIsNum && aval === -Infinity;
+                    const bIsMissing = bIsNum && bval === -Infinity;
+
+                    if (aIsMissing && bIsMissing) return 0; // both missing, maintain order
+                    if (aIsMissing) return 1; // a is missing, push to bottom
+                    if (bIsMissing) return -1; // b is missing, push to bottom
+
+                    if (aIsNum && bIsNum) {
+                        return (aval - bval) * dir;
+                    }
+                    if (aval < bval) return -1 * dir;
+                    if (aval > bval) return 1 * dir;
+                    return 0;
+                };
+
+                // Create a copy of allRows and sort it
+                const sortedRows = [...allRows].sort(comparator);
+
+                // Clear tbody and add sorted rows
+                tbody.innerHTML = '';
+                sortedRows.forEach(row => {
+                    const newRow = row.cloneNode(true);
+                    tbody.appendChild(newRow);
+                });
+
+                // Update allRows with sorted order to maintain sort state
+                allRows = Array.from(tbody.rows);
+
+                clearSortedClasses();
+                const ths = thead.querySelectorAll('th');
+                const th = ths[idx];
+                th.classList.add(dir === 1 ? 'sorted-asc' : 'sorted-desc');
+
+                sortState = { index: idx, dir: dir };
+                currentPage = 1;
+                renderPage();
+            }
+
+            function getFilteredRows() {
+                const selectedCategory = filterSelect.value;
+                return allRows.filter(row => {
+                    if (selectedCategory === 'all') return true;
+                    return row.getAttribute('data-category') === selectedCategory;
+                });
+            }
+
+            function renderPage() {
+                const filteredRows = getFilteredRows();
+                const totalRows = filteredRows.length;
+
+                // Update stats
+                filteredCountEl.textContent = totalRows;
+                totalVisibleEl.textContent = totalRows;
+
+                // Show/hide empty state
+                if (totalRows === 0) {
+                    tableContainer.style.display = 'none';
+                    emptyState.style.display = 'block';
+                    paginationContainer.innerHTML = '';
+                    pageStartEl.textContent = '0';
+                    pageEndEl.textContent = '0';
+                    return;
+                } else {
+                    tableContainer.style.display = 'block';
+                    emptyState.style.display = 'none';
+                }
+
+                const totalPages = Math.ceil(totalRows / rowsPerPage) || 1;
+                if (currentPage > totalPages) currentPage = totalPages;
+
+                const startIdx = (currentPage - 1) * rowsPerPage;
+                const endIdx = Math.min(startIdx + rowsPerPage, totalRows);
+
+                // Hide all rows first
+                allRows.forEach(row => { row.style.display = 'none'; });
+
+                // Show filtered rows for current page (they're already sorted from allRows)
+                filteredRows.forEach((row, i) => {
+                    row.style.display = (i >= startIdx && i < endIdx) ? '' : 'none';
+                });
+
+                // Update pagination info
+                pageStartEl.textContent = totalRows > 0 ? startIdx + 1 : 0;
+                pageEndEl.textContent = endIdx;
+
+                renderPagination(totalPages);
+            }
+
+            function renderPagination(totalPages) {
+                paginationContainer.innerHTML = '';
+
+                if (totalPages <= 1) return;
+
+                // Previous button
+                const prevBtn = document.createElement('button');
+                prevBtn.textContent = '← Previous';
+                prevBtn.className = 'pagination-btn';
+                prevBtn.disabled = currentPage === 1;
+                prevBtn.onclick = () => {
+                    if (currentPage > 1) {
+                        currentPage--;
+                        renderPage();
+                    }
+                };
+                paginationContainer.appendChild(prevBtn);
+
+                // Page buttons
+                const maxPages = 5;
+                let startPage = Math.max(1, currentPage - Math.floor(maxPages / 2));
+                let endPage = Math.min(totalPages, startPage + maxPages - 1);
+
+                if (endPage - startPage < maxPages - 1) {
+                    startPage = Math.max(1, endPage - maxPages + 1);
+                }
+
+                // First page button if not visible
+                if (startPage > 1) {
+                    const firstBtn = document.createElement('button');
+                    firstBtn.textContent = '1';
+                    firstBtn.className = 'pagination-btn';
+                    firstBtn.onclick = () => { currentPage = 1; renderPage(); };
+                    paginationContainer.appendChild(firstBtn);
+
+                    if (startPage > 2) {
+                        const ellipsis = document.createElement('span');
+                        ellipsis.className = 'pagination-ellipsis';
+                        ellipsis.textContent = '...';
+                        paginationContainer.appendChild(ellipsis);
+                    }
+                }
+
+                // Page number buttons
+                for (let i = startPage; i <= endPage; i++) {
+                    const btn = document.createElement('button');
+                    btn.textContent = i;
+                    btn.className = 'pagination-btn';
+                    if (i === currentPage) btn.classList.add('active');
+                    btn.onclick = () => { currentPage = i; renderPage(); };
+                    paginationContainer.appendChild(btn);
+                }
+
+                // Last page button if not visible
+                if (endPage < totalPages) {
+                    if (endPage < totalPages - 1) {
+                        const ellipsis = document.createElement('span');
+                        ellipsis.className = 'pagination-ellipsis';
+                        ellipsis.textContent = '...';
+                        paginationContainer.appendChild(ellipsis);
+                    }
+
+                    const lastBtn = document.createElement('button');
+                    lastBtn.textContent = totalPages;
+                    lastBtn.className = 'pagination-btn';
+                    lastBtn.onclick = () => { currentPage = totalPages; renderPage(); };
+                    paginationContainer.appendChild(lastBtn);
+                }
+
+                // Next button
+                const nextBtn = document.createElement('button');
+                nextBtn.textContent = 'Next →';
+                nextBtn.className = 'pagination-btn';
+                nextBtn.disabled = currentPage === totalPages;
+                nextBtn.onclick = () => {
+                    if (currentPage < totalPages) {
+                        currentPage++;
+                        renderPage();
+                    }
+                };
+                paginationContainer.appendChild(nextBtn);
+            }
+
+            // Event listeners
+            thead.addEventListener('click', function (e) {
+                const th = e.target.closest('th');
+                if (!th) return;
+                const idx = Array.from(th.parentNode.children).indexOf(th);
+                const type = th.getAttribute('data-type') || 'text';
+                sortTableByColumn(idx, type);
+            });
+
+            filterSelect.addEventListener('change', () => {
+                currentPage = 1;
+                renderPage();
+            });
+
+            // Initialize rows and perform initial sort
+            initializeRows();
+            sortTableByColumn(4, 'number', -1);
+        })();
+    </script>
+</body>
+
+</html>

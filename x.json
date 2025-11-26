@@ -1,0 +1,8942 @@
+{
+  "count": 289,
+  "response_format": "values_with_units",
+  "status": "success",
+  "stocks": [
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.81
+      },
+      "company_name": "Motilal Oswal Nasdaq Q 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 98.13
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.51
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.88
+      },
+      "sector": "N/A",
+      "symbol": "MONQ50",
+      "ticker": "MONQ50.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.04
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.25
+      },
+      "company_name": "Motilal Oswal Asset Management Co. Ltd. - Motilal Oswal Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 123.85
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.85
+      },
+      "sector": "",
+      "symbol": "MOGOLD",
+      "ticker": "MOGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 12.11
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.78
+      },
+      "company_name": "Aditya Birla Sun Life Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 110.06
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.64
+      },
+      "sector": "N/A",
+      "symbol": "BSLGOLDETF",
+      "ticker": "BSLGOLDETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 16.87
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.63
+      },
+      "company_name": "Nippon India ETF Nifty PSU Bank BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 94.71
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 8.7
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.75
+      },
+      "sector": "N/A",
+      "symbol": "PSUBNKBEES",
+      "ticker": "PSUBNKBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 35.0
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.14
+      },
+      "company_name": "Groww Mutual Fund - Groww Mutual Fund - Groww Nifty Realty Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.11
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.4
+      },
+      "sector": "",
+      "symbol": "GROWWRLTY",
+      "ticker": "GROWWRLTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 56021
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.28
+      },
+      "company_name": "ICICIPRAMC - PSUBANKICI",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 85.66
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.52
+      },
+      "sector": "N/A",
+      "symbol": "PSUBNKIETF",
+      "ticker": "PSUBNKIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.24
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.13
+      },
+      "company_name": "Mirae Asset S&P 500 Top 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 68.3
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 31.66
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.68
+      },
+      "sector": "N/A",
+      "symbol": "MASPTOP50",
+      "ticker": "MASPTOP50.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.43
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.49
+      },
+      "company_name": "Motilal Oswal Asset Management Co. Ltd. - Motilal Oswal Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 154.89
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.63
+      },
+      "sector": "",
+      "symbol": "MOSILVER",
+      "ticker": "MOSILVER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 4.16
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.43
+      },
+      "company_name": "360 One Mutual Fund - 360 One Silver Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 153.51
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.61
+      },
+      "sector": "",
+      "symbol": "SILVER360",
+      "ticker": "SILVER360.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 27968
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.39
+      },
+      "company_name": "Motilal Oswal Nifty Realty ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 90.21
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 42.97
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.56
+      },
+      "sector": "N/A",
+      "symbol": "MOREALTY",
+      "ticker": "MOREALTY.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.33
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.33
+      },
+      "company_name": "DSPAMC - DSPPSBKETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 85.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.58
+      },
+      "sector": "N/A",
+      "symbol": "PSUBANKADD",
+      "ticker": "PSUBANKADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 35371
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.62
+      },
+      "company_name": "LIC MF Nifty Midcap 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 60.14
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 29.44
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.04
+      },
+      "sector": "N/A",
+      "symbol": "LICNMID100",
+      "ticker": "LICNMID100.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 50913
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.31
+      },
+      "company_name": "HDFC Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 149.82
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.57
+      },
+      "sector": "N/A",
+      "symbol": "HDFCSILVER",
+      "ticker": "HDFCSILVER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 22.95
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.13
+      },
+      "company_name": "DSPAMC - DSPSILVETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 150.38
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.44
+      },
+      "sector": "N/A",
+      "symbol": "SILVERADD",
+      "ticker": "SILVERADD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.47
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.21
+      },
+      "company_name": "Mirae Asset Nifty PSU Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 85.25
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 8.69
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.44
+      },
+      "sector": "N/A",
+      "symbol": "BANKPSU",
+      "ticker": "BANKPSU.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 18978
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.3
+      },
+      "company_name": "Baroda BNP Paribas Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 120.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.09
+      },
+      "sector": "N/A",
+      "symbol": "BBNPPGOLD",
+      "ticker": "BBNPPGOLD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 7837
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.24
+      },
+      "company_name": "Nippon India Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 149.32
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.52
+      },
+      "sector": "N/A",
+      "symbol": "SILVERBEES",
+      "ticker": "SILVERBEES.NS",
+      "volume": {
+        "unit": "Crores Shares",
+        "value": 2.39
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.41
+      },
+      "company_name": "ICICI Prudential Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 155.62
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.57
+      },
+      "sector": "N/A",
+      "symbol": "SILVERIETF",
+      "ticker": "SILVERIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 34.92
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.3
+      },
+      "company_name": "Edelweiss Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 156.19
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.49
+      },
+      "sector": "N/A",
+      "symbol": "ESILVER",
+      "ticker": "ESILVER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.39
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "Tata Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 12.12
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.25
+      },
+      "sector": "N/A",
+      "symbol": "TATAGOLD",
+      "ticker": "TATAGOLD.NS",
+      "volume": {
+        "unit": "Crores Shares",
+        "value": 3.23
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.25
+      },
+      "company_name": "SBI Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 153.03
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.49
+      },
+      "sector": "N/A",
+      "symbol": "SBISILVER",
+      "ticker": "SBISILVER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 23.44
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.22
+      },
+      "company_name": "Tata Mutual Fund - Tata Silver ETF Fund of Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 15.18
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.47
+      },
+      "sector": "",
+      "symbol": "TATSILV",
+      "ticker": "TATSILV.NS",
+      "volume": {
+        "unit": "Crores Shares",
+        "value": 2.19
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 11.3
+      },
+      "company_name": "Kotak Nifty PSU Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 845.72
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 8.67
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.35
+      },
+      "sector": "N/A",
+      "symbol": "PSUBANK",
+      "ticker": "PSUBANK.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 9442
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.65
+      },
+      "company_name": "Union Asset Management Co. Pvt. Ltd. - Union Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 122.55
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.36
+      },
+      "sector": "",
+      "symbol": "UNIONGOLD",
+      "ticker": "UNIONGOLD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2219
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.93
+      },
+      "company_name": "UTI Silver Exchange Traded Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 150.84
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.3
+      },
+      "sector": "N/A",
+      "symbol": "SILVERETF",
+      "ticker": "SILVERETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 10.15
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.4
+      },
+      "company_name": "Aditya Birla Sun Life Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 155.6
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.57
+      },
+      "sector": "N/A",
+      "symbol": "SILVER",
+      "ticker": "SILVER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 11.02
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.31
+      },
+      "company_name": "Groww Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 122.29
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.08
+      },
+      "sector": "N/A",
+      "symbol": "GROWWGOLD",
+      "ticker": "GROWWGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.29
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 4.44
+      },
+      "company_name": "Nippon India ETF Hang Seng BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 503.01
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 15.12
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.89
+      },
+      "sector": "N/A",
+      "symbol": "HNGSNGBEES",
+      "ticker": "HNGSNGBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.29
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.29
+      },
+      "company_name": "HDFC GOLD ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 106.8
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.22
+      },
+      "sector": "N/A",
+      "symbol": "HDFCGOLD",
+      "ticker": "HDFCGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 31.27
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.05
+      },
+      "company_name": "HDFC Nifty PSU Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 85.46
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 8.7
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.24
+      },
+      "sector": "N/A",
+      "symbol": "HDFCPSUBK",
+      "ticker": "HDFCPSUBK.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 15950
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.23
+      },
+      "company_name": "Nippon India ETF Gold BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 103.46
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.2
+      },
+      "sector": "N/A",
+      "symbol": "GOLDBEES",
+      "ticker": "GOLDBEES.NS",
+      "volume": {
+        "unit": "Crores Shares",
+        "value": 2.5
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.64
+      },
+      "company_name": "SBI Mutual Fund - SBI BSE PSU Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 49.27
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.32
+      },
+      "sector": "",
+      "symbol": "SBIBPB",
+      "ticker": "SBIBPB.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 45315
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.1
+      },
+      "company_name": "Axis Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 154.94
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.37
+      },
+      "sector": "N/A",
+      "symbol": "AXISILVER",
+      "ticker": "AXISILVER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.39
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.5
+      },
+      "company_name": "360 One Mutual Fund - 360 One Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 122.25
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.24
+      },
+      "sector": "",
+      "symbol": "GOLD360",
+      "ticker": "GOLD360.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 54189
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.26
+      },
+      "company_name": "SBI Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 106.65
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.2
+      },
+      "sector": "N/A",
+      "symbol": "SETFGOLD",
+      "ticker": "SETFGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 38.49
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.3
+      },
+      "company_name": "Dsp Mutual Fund - Dsp Gold Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 121.13
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.08
+      },
+      "sector": "N/A",
+      "symbol": "GOLDETFADD",
+      "ticker": "GOLDETFADD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.91
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.35
+      },
+      "company_name": "Mirae Asset Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 121.31
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.13
+      },
+      "sector": "N/A",
+      "symbol": "GOLDETF",
+      "ticker": "GOLDETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 5.89
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.15
+      },
+      "company_name": "UTI Gold Exchange Traded Scheme",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 104.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.11
+      },
+      "sector": "N/A",
+      "symbol": "GOLDSHARE",
+      "ticker": "GOLDSHARE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 30.66
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.89
+      },
+      "company_name": "Kotak Mahindra Mutual Fund - Kotak Silver ETF Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 151.13
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.27
+      },
+      "sector": "",
+      "symbol": "SILVER1",
+      "ticker": "SILVER1.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 8.99
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.2
+      },
+      "company_name": "Zerodha Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 19.61
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.03
+      },
+      "sector": "N/A",
+      "symbol": "GOLDCASE",
+      "ticker": "GOLDCASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 55.53
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.14
+      },
+      "company_name": "Axis Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 103.99
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.11
+      },
+      "sector": "N/A",
+      "symbol": "AXISGOLD",
+      "ticker": "AXISGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.66
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.73
+      },
+      "company_name": "UTI Nifty 5 Yr Benchmark G-Sec ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 63.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.16
+      },
+      "sector": "N/A",
+      "symbol": "NIF5GETF",
+      "ticker": "NIF5GETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 420
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.2
+      },
+      "company_name": "Zerodha AM Pvt. Ltd. - Zerodha Mutual Fund - Zerodha Silver ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 15.79
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.28
+      },
+      "sector": "",
+      "symbol": "SILVERCASE",
+      "ticker": "SILVERCASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 68.73
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.18
+      },
+      "company_name": "ICICI PRUDENTIAL GOLD ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 106.95
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.12
+      },
+      "sector": "N/A",
+      "symbol": "GOLDIETF",
+      "ticker": "GOLDIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 23.37
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.18
+      },
+      "company_name": "MIRAEAMC - MASILVER",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 152.28
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.45
+      },
+      "sector": "N/A",
+      "symbol": "SILVERAG",
+      "ticker": "SILVERAG.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.91
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.21
+      },
+      "company_name": "KOTAK GOLD ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 104.2
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.17
+      },
+      "sector": "N/A",
+      "symbol": "GOLD1",
+      "ticker": "GOLD1.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 14.25
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.08
+      },
+      "company_name": "ICICI Prudential Mutual Fund - ICICI Prudential Nifty 200 Value 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 14.2
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 10.75
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.57
+      },
+      "sector": "N/A",
+      "symbol": "VAL30IETF",
+      "ticker": "VAL30IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 73026
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 119.4
+      },
+      "company_name": "LIC MF Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 11192.85
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.08
+      },
+      "sector": "N/A",
+      "symbol": "LICMFGOLD",
+      "ticker": "LICMFGOLD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 789
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.13
+      },
+      "company_name": "Angel One Asset Management Co. Ltd. - Angel One Gold Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 11.64
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.13
+      },
+      "sector": "",
+      "symbol": "AONEGOLD",
+      "ticker": "AONEGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 5.09
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.06
+      },
+      "company_name": "Quantum Gold Exchange Traded Scheme",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 103.28
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.04
+      },
+      "sector": "N/A",
+      "symbol": "QGOLDHALF",
+      "ticker": "QGOLDHALF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 84035
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.06
+      },
+      "company_name": "ICICI Prudential Nifty Metal ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.12
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 20.45
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.6
+      },
+      "sector": "N/A",
+      "symbol": "METALIETF",
+      "ticker": "METALIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 61.26
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.85
+      },
+      "company_name": "Groww Mutual Fund - Groww Silver Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 153.28
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.22
+      },
+      "sector": "",
+      "symbol": "GROWWSLVR",
+      "ticker": "GROWWSLVR.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.72
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.4
+      },
+      "company_name": "choice Mutual Fund-Choice Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 124.3
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 1.14
+      },
+      "sector": "",
+      "symbol": "CHOICEGOLD",
+      "ticker": "CHOICEGOLD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.09
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.48
+      },
+      "company_name": "IDFC Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 284.5
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.1
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.88
+      },
+      "sector": "N/A",
+      "symbol": "IDFNIFTYET",
+      "ticker": "IDFNIFTYET.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 972
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 89.0
+      },
+      "company_name": "Invesco India Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10828.4
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.83
+      },
+      "sector": "N/A",
+      "symbol": "IVZINGOLD",
+      "ticker": "IVZINGOLD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 307
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.8
+      },
+      "company_name": "Aditya Birla Sun Life CRISIL Broad Based Gilt ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 111.51
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.72
+      },
+      "sector": "N/A",
+      "symbol": "ABGSEC",
+      "ticker": "ABGSEC.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 42
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.95
+      },
+      "company_name": "LIC MF Nifty 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 287.0
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.43
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.68
+      },
+      "sector": "N/A",
+      "symbol": "LICNFNHGP",
+      "ticker": "LICNFNHGP.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 3927
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "Kotak Mahindra Mutual Fund - Kotak Nifty Midcap 150 Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 22.46
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.67
+      },
+      "sector": "",
+      "symbol": "MID150",
+      "ticker": "MID150.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 10370
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "Kotak Mahindra AMC Ltd - Kotak Mutual Fund - Kotak Nifty Chemicals ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.72
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.17
+      },
+      "sector": "",
+      "symbol": "CHEMICAL",
+      "ticker": "CHEMICAL.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.3
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.35
+      },
+      "company_name": "Motilal Oswal BSE Healthcare ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 44.92
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.08
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.79
+      },
+      "sector": "N/A",
+      "symbol": "MOHEALTH",
+      "ticker": "MOHEALTH.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 42997
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.11
+      },
+      "company_name": "ICICI Prudential Nifty Financial Services Ex-Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 32.07
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.88
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.34
+      },
+      "sector": "N/A",
+      "symbol": "FINIETF",
+      "ticker": "FINIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.28
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.63
+      },
+      "company_name": "ICICI Prudential Nifty 10 yr Benchmark G-Sec ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 259.63
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.63
+      },
+      "sector": "N/A",
+      "symbol": "GSEC10IETF",
+      "ticker": "GSEC10IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 8200
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "ICICI Prudential Nifty 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 29.42
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.61
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.1
+      },
+      "sector": "N/A",
+      "symbol": "NIF100IETF",
+      "ticker": "NIF100IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 73540
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.09
+      },
+      "company_name": "Aditya Birla Sun Life Nifty Healthcare ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 15.2
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.08
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.6
+      },
+      "sector": "N/A",
+      "symbol": "HEALTHY",
+      "ticker": "HEALTHY.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.26
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "ICICIPRAMC - ICICICOMMO",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 92.23
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.16
+      },
+      "sector": "N/A",
+      "symbol": "COMMOIETF",
+      "ticker": "COMMOIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 5.42
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.19
+      },
+      "company_name": "UTI Nifty Next 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 73.29
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 21.34
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.26
+      },
+      "sector": "N/A",
+      "symbol": "UTINEXT50",
+      "ticker": "UTINEXT50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 44392
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.27
+      },
+      "company_name": "Nippon India ETF Nifty Infrastructure BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 990.82
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.93
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.13
+      },
+      "sector": "N/A",
+      "symbol": "INFRABEES",
+      "ticker": "INFRABEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 6910
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.06
+      },
+      "company_name": "ICICIPRAMC - ICICIMOM30",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 32.22
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.19
+      },
+      "sector": "N/A",
+      "symbol": "MOM30IETF",
+      "ticker": "MOM30IETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 4.75
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "Axis Amc Ltd. - Axis Mutual Fund - Axis Nifty500 Value 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.24
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.17
+      },
+      "sector": "",
+      "symbol": "AXISVALUE",
+      "ticker": "AXISVALUE.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 15943
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.2
+      },
+      "company_name": "DSP Nifty Healthcare ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 149.44
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.14
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.81
+      },
+      "sector": "N/A",
+      "symbol": "HEALTHADD",
+      "ticker": "HEALTHADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 4141
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.31
+      },
+      "company_name": "ICICIPRAMC - ICICIINFRA",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 98.99
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.31
+      },
+      "sector": "N/A",
+      "symbol": "INFRAIETF",
+      "ticker": "INFRAIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 10.36
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Motilal Oswal Nifty Midcap150 Momentum 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 63.66
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.02
+      },
+      "sector": "",
+      "symbol": "MOMIDMTM",
+      "ticker": "MOMIDMTM.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 53677
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.14
+      },
+      "company_name": "Nippon Life India Asset Management Ltd. - Nippon India Mutual Fund - Nippon India Nifty Pharma ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 23.17
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.61
+      },
+      "sector": "",
+      "symbol": "PHARMABEES",
+      "ticker": "PHARMABEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 25.94
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 4.28
+      },
+      "company_name": "LIC MF BSE Sensex ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 953.22
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.21
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.45
+      },
+      "sector": "N/A",
+      "symbol": "LICNETFSEN",
+      "ticker": "LICNETFSEN.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 14
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.73
+      },
+      "company_name": "Mirae Asset NYSE FANG+ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 165.28
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 38.42
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.44
+      },
+      "sector": "N/A",
+      "symbol": "MAFANG",
+      "ticker": "MAFANG.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.84
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.31
+      },
+      "company_name": "Motilal Oswal Asset Management Co. Ltd - Motilal Oswal BSE India Infrastructure ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 60.21
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.52
+      },
+      "sector": "",
+      "symbol": "MOINFRA",
+      "ticker": "MOINFRA.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1627
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.79
+      },
+      "company_name": "Kotak Mahindra Mutual Fund - Kotak Nifty Midcap 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 175.44
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.45
+      },
+      "sector": "",
+      "symbol": "MIDCAP",
+      "ticker": "MIDCAP.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 41828
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.02
+      },
+      "company_name": "Motilal Oswal Nifty 200 Momentum 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 64.16
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.88
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.03
+      },
+      "sector": "N/A",
+      "symbol": "MOMOMENTUM",
+      "ticker": "MOMOMENTUM.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.33
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.13
+      },
+      "company_name": "Kotak Nifty Alpha 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 49.04
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 36.5
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.27
+      },
+      "sector": "N/A",
+      "symbol": "ALPHA",
+      "ticker": "ALPHA.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 7.37
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "Groww BSE Power ETF FOF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 9.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.1
+      },
+      "sector": "",
+      "symbol": "GROWWPOWER",
+      "ticker": "GROWWPOWER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 4.42
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.4
+      },
+      "company_name": "Edelweiss Gold ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 124.5
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.32
+      },
+      "sector": "N/A",
+      "symbol": "EGOLD",
+      "ticker": "EGOLD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 69672
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "Groww Mutual Fund - Growwnifty500 Lowvolatility 50ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.64
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.28
+      },
+      "sector": "",
+      "symbol": "GROWWLOVOL",
+      "ticker": "GROWWLOVOL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 17992
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.04
+      },
+      "company_name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 13.06
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.31
+      },
+      "sector": "N/A",
+      "symbol": "AXISBPSETF",
+      "ticker": "AXISBPSETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 21821
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "Edelweiss BSE Capital Markets & Insurance ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 24.02
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.45
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.04
+      },
+      "sector": "N/A",
+      "symbol": "ECAPINSURE",
+      "ticker": "ECAPINSURE.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 31247
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 32.02
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.83
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.12
+      },
+      "sector": "N/A",
+      "symbol": "MOMENTUM",
+      "ticker": "MOMENTUM.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 25299
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.4
+      },
+      "company_name": "Aditya BSL CRISIL 10 Year Gilt ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 110.09
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.36
+      },
+      "sector": "N/A",
+      "symbol": "GSEC10ABSL",
+      "ticker": "GSEC10ABSL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 697
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.23
+      },
+      "company_name": "Edelweiss Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 59.35
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.84
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.39
+      },
+      "sector": "N/A",
+      "symbol": "EBANKNIFTY",
+      "ticker": "EBANKNIFTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2616
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.92
+      },
+      "company_name": "Axis NIFTY Healthcare ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 150.71
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.0
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.61
+      },
+      "sector": "N/A",
+      "symbol": "AXISHCETF",
+      "ticker": "AXISHCETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 5005
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.07
+      },
+      "company_name": "Mirae Asset Nifty 200 Alpha 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 25.52
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 41.43
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.28
+      },
+      "sector": "N/A",
+      "symbol": "ALPHAETF",
+      "ticker": "ALPHAETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.23
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.82
+      },
+      "company_name": "ICICIPRAMC - ICICIPHARM",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 151.7
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.54
+      },
+      "sector": "N/A",
+      "symbol": "HEALTHIETF",
+      "ticker": "HEALTHIETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 40320
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.04
+      },
+      "company_name": "ICICI PRUD MIDCAP SEL ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 18.35
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.22
+      },
+      "sector": "N/A",
+      "symbol": "MIDSELIETF",
+      "ticker": "MIDSELIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.15
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.24
+      },
+      "company_name": "Motilal Oswal Nifty Midcap 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 64.93
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 29.88
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.37
+      },
+      "sector": "N/A",
+      "symbol": "MOM100",
+      "ticker": "MOM100.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.52
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.2
+      },
+      "company_name": "Aditya Birla Sun Life Nifty Next 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 71.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 21.4
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.28
+      },
+      "sector": "N/A",
+      "symbol": "ABSLNN50ET",
+      "ticker": "ABSLNN50ET.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 8303
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "UTI Nifty 10 yr Benchmark G-Sec ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 26.11
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.04
+      },
+      "sector": "N/A",
+      "symbol": "NIF10GETF",
+      "ticker": "NIF10GETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2172
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.46
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Motilal Oswal Nifty India Manufacturing ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 150.93
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.31
+      },
+      "sector": "",
+      "symbol": "MOMGF",
+      "ticker": "MOMGF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 234
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.0
+      },
+      "company_name": "Groww Asset Management Limited - Groww Nifty Smallcap 250 ETF Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 9.6
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "",
+      "symbol": "GROWWSC250",
+      "ticker": "GROWWSC250.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.66
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "company_name": "Zerodha Mutual Fund - Zerodha Nifty Smallcap 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.0
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": "N/A"
+      },
+      "sector": "",
+      "symbol": "SML100CASE",
+      "ticker": "SML100CASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 7.9
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.31
+      },
+      "company_name": "HDFC Nifty Smallcap 250 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 167.69
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 27.39
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.19
+      },
+      "sector": "N/A",
+      "symbol": "HDFCSML250",
+      "ticker": "HDFCSML250.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 23.68
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.31
+      },
+      "company_name": "SBI Nifty 10 yr Benchmark G-Sec ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 260.09
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.12
+      },
+      "sector": "N/A",
+      "symbol": "SETF10GILT",
+      "ticker": "SETF10GILT.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 74303
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.26
+      },
+      "company_name": "ICICI Prudential Nifty 5 Yr Bench G-SEC ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 63.82
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.41
+      },
+      "sector": "N/A",
+      "symbol": "GSEC5IETF",
+      "ticker": "GSEC5IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 10406
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.46
+      },
+      "company_name": "SBI Nifty Next 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 727.05
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 21.34
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.34
+      },
+      "sector": "N/A",
+      "symbol": "SETFNN50",
+      "ticker": "SETFNN50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 15409
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.08
+      },
+      "company_name": "Kotak Mahindra Mutual Fund - Kotak Nifty 200 Momentum 30 Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 31.75
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.25
+      },
+      "sector": "",
+      "symbol": "MOMENTUM30",
+      "ticker": "MOMENTUM30.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2442
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.36
+      },
+      "company_name": "Motilal Oswal BSE Enhanced Value ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 112.89
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 9.62
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.32
+      },
+      "sector": "N/A",
+      "symbol": "MOVALUE",
+      "ticker": "MOVALUE.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 43322
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "Motilal Oswal Nifty Smallcap 250 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 16.71
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 27.37
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.18
+      },
+      "sector": "N/A",
+      "symbol": "MOSMALL250",
+      "ticker": "MOSMALL250.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 11.19
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.14
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Nifty Next 50 Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 67.85
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.21
+      },
+      "sector": "",
+      "symbol": "MONEXT50",
+      "ticker": "MONEXT50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2547
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.06
+      },
+      "company_name": "Nippon India Mutual Fund - Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 29.19
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.21
+      },
+      "sector": "",
+      "symbol": "LTGILTBEES",
+      "ticker": "LTGILTBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 22.58
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "Edelweiss Nifty LargeMidcap 250 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 16.73
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.18
+      },
+      "sector": "",
+      "symbol": "ELM250",
+      "ticker": "ELM250.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.51
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.04
+      },
+      "company_name": "Zerodha Mutual Fund - Zerodha Nifty 8-13 Yr G-sec Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 29.71
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.13
+      },
+      "sector": "",
+      "symbol": "LTGILTCASE",
+      "ticker": "LTGILTCASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.7
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.18
+      },
+      "company_name": "ICICIPRAMC - ICICINXT50",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 71.67
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.25
+      },
+      "sector": "N/A",
+      "symbol": "NEXT50IETF",
+      "ticker": "NEXT50IETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.12
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.11
+      },
+      "company_name": "Motilal Oswal Nifty India Defence ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 87.06
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 51.46
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.13
+      },
+      "sector": "N/A",
+      "symbol": "MODEFENCE",
+      "ticker": "MODEFENCE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 13.87
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "company_name": "Nippon India Mutual Fund - Nippon India ETF Dividend Opportunities",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 81.0
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": "N/A"
+      },
+      "sector": "",
+      "symbol": "DIVOPPBEES",
+      "ticker": "DIVOPPBEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 35998
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "HDFC NIFTY Midcap 150 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 22.38
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 30.34
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.22
+      },
+      "sector": "N/A",
+      "symbol": "HDFCMID150",
+      "ticker": "HDFCMID150.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.48
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.12
+      },
+      "company_name": "Nippon India ETF Nifty 5 yr Benchmark G-Sec",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 63.52
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.19
+      },
+      "sector": "N/A",
+      "symbol": "GILT5YBEES",
+      "ticker": "GILT5YBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.28
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.07
+      },
+      "company_name": "DSP BSE Sensex Next 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 39.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 22.31
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.18
+      },
+      "sector": "N/A",
+      "symbol": "NEXT30ADD",
+      "ticker": "NEXT30ADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2234
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.02
+      },
+      "company_name": "Mirae Asset Nifty Metal ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.12
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 19.28
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.2
+      },
+      "sector": "N/A",
+      "symbol": "METAL",
+      "ticker": "METAL.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 8.11
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "Angel One Asset Management Co. Ltd. - Angel One Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.61
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.08
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.19
+      },
+      "sector": "N/A",
+      "symbol": "AONENIFTY",
+      "ticker": "AONENIFTY.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 4.33
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 2.71
+      },
+      "company_name": "BHARAT Bond ETF April 2030",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1561.29
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.17
+      },
+      "sector": "N/A",
+      "symbol": "EBBETF0430",
+      "ticker": "EBBETF0430.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 7557
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.06
+      },
+      "company_name": "Motilal Oswal Asset Management Company Ltd. - Motilal Oswal Nifty 50 Equity Weight ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 33.22
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.18
+      },
+      "sector": "",
+      "symbol": "MON50EQUAL",
+      "ticker": "MON50EQUAL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1013
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.14
+      },
+      "company_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 44.53
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 27.93
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.32
+      },
+      "sector": "N/A",
+      "symbol": "SMALLCAP",
+      "ticker": "SMALLCAP.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 9.07
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.55
+      },
+      "company_name": "Motilal Oswal NASDAQ 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 230.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 36.53
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.24
+      },
+      "sector": "N/A",
+      "symbol": "MON100",
+      "ticker": "MON100.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 7.53
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.08
+      },
+      "company_name": "Motilal Oswal AMC Ltd. - Motilal Oswal Nifty Capital Market ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 47.11
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.17
+      },
+      "sector": "",
+      "symbol": "MOCAPITAL",
+      "ticker": "MOCAPITAL.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.74
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "DSPAMC - DSPPVBKETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.65
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.03
+      },
+      "sector": "N/A",
+      "symbol": "PVTBANKADD",
+      "ticker": "PVTBANKADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 9136
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "Mirae Asset Nifty 8-13 yr G-Sec ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 29.6
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.17
+      },
+      "sector": "N/A",
+      "symbol": "GSEC10YEAR",
+      "ticker": "GSEC10YEAR.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 43312
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "HDFC BSE 500 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 37.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.3
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.03
+      },
+      "sector": "N/A",
+      "symbol": "HDFCBSE500",
+      "ticker": "HDFCBSE500.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 13750
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.73
+      },
+      "company_name": "Nippon India ETF Nifty Next 50 Junior BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 733.58
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 21.36
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.24
+      },
+      "sector": "N/A",
+      "symbol": "JUNIORBEES",
+      "ticker": "JUNIORBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.02
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.5
+      },
+      "company_name": "MIRAEAMC - MANXT50",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 700.23
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.21
+      },
+      "sector": "N/A",
+      "symbol": "NEXT50",
+      "ticker": "NEXT50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 39867
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.07
+      },
+      "company_name": "Motilal Oswal Asset Management Co. Ltd. - Nifty Alpha 50 ETF Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 51.27
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.14
+      },
+      "sector": "",
+      "symbol": "MOALPHA50",
+      "ticker": "MOALPHA50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1361
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "HDFC NIFTY200 Momentum 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 31.93
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.9
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.06
+      },
+      "sector": "N/A",
+      "symbol": "HDFCMOMENT",
+      "ticker": "HDFCMOMENT.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 54814
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.07
+      },
+      "company_name": "ICICI Prudential Nifty India Consumption ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 127.85
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 39.79
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.05
+      },
+      "sector": "N/A",
+      "symbol": "CONSUMIETF",
+      "ticker": "CONSUMIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 5.64
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.12
+      },
+      "company_name": "Groww Nifty India Defence ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 79.13
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 51.38
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.15
+      },
+      "sector": "N/A",
+      "symbol": "GROWWDEFNC",
+      "ticker": "GROWWDEFNC.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.2
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.07
+      },
+      "company_name": "Motilal Oswal Nifty 5 year Benchmark G-Sec ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 62.74
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.11
+      },
+      "sector": "N/A",
+      "symbol": "MOGSEC",
+      "ticker": "MOGSEC.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 72179
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "Mirae Asset Investment Managers (India) Pvt Ltd.- Mirae Asset Nifty Smallcap 250 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 16.64
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.06
+      },
+      "sector": "",
+      "symbol": "SMALL250",
+      "ticker": "SMALL250.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 53625
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "ICICIPRAMC - ICICIBANKP",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.5
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.04
+      },
+      "sector": "N/A",
+      "symbol": "PVTBANIETF",
+      "ticker": "PVTBANIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.7
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.33
+      },
+      "company_name": "MIRAEAMC - MAMFGETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 153.24
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.22
+      },
+      "sector": "N/A",
+      "symbol": "MAKEINDIA",
+      "ticker": "MAKEINDIA.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 14461
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "Groww Nifty 500 Momentum 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.83
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.09
+      },
+      "sector": "",
+      "symbol": "GROWWMOM50",
+      "ticker": "GROWWMOM50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 85575
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "MIRAEAMC - MAM150ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 22.56
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.22
+      },
+      "sector": "N/A",
+      "symbol": "MIDCAPETF",
+      "ticker": "MIDCAPETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 18.91
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "Zerodha Nifty 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 11.02
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.6
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.27
+      },
+      "sector": "N/A",
+      "symbol": "TOP100CASE",
+      "ticker": "TOP100CASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 12.83
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.02
+      },
+      "company_name": "HDFC NIFTY100 Low Volatility 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 21.37
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 30.56
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.09
+      },
+      "sector": "N/A",
+      "symbol": "HDFCLOWVOL",
+      "ticker": "HDFCLOWVOL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 8028
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "ICICIPRAMC - ICICIM150",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 22.84
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.22
+      },
+      "sector": "N/A",
+      "symbol": "MIDCAPIETF",
+      "ticker": "MIDCAPIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 14.04
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.15
+      },
+      "company_name": "HDFC NIFTY100 Quality 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 59.55
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 29.72
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.25
+      },
+      "sector": "N/A",
+      "symbol": "HDFCQUAL",
+      "ticker": "HDFCQUAL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 9901
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.36
+      },
+      "company_name": "Nippon Life India Asset Management Limited - India Nifty India Manufacturing ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 151.28
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.24
+      },
+      "sector": "",
+      "symbol": "MANUFGBEES",
+      "ticker": "MANUFGBEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 328
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.11
+      },
+      "company_name": "HDFC Nifty Private Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.7
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 19.72
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.38
+      },
+      "sector": "N/A",
+      "symbol": "HDFCPVTBAN",
+      "ticker": "HDFCPVTBAN.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 37859
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.06
+      },
+      "company_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 42.44
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 38.36
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.14
+      },
+      "sector": "N/A",
+      "symbol": "EMULTIMQ",
+      "ticker": "EMULTIMQ.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 16309
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "ICICI Prudential Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 60.1
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.7
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.08
+      },
+      "sector": "N/A",
+      "symbol": "BANKIETF",
+      "ticker": "BANKIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 20.44
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "Kotak Nifty MNC ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.65
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.12
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.1
+      },
+      "sector": "N/A",
+      "symbol": "MNC",
+      "ticker": "MNC.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 16268
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "HDFC Nifty Bank ETF - Growth",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 60.35
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.73
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.05
+      },
+      "sector": "N/A",
+      "symbol": "HDFCNIFBAN",
+      "ticker": "HDFCNIFBAN.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 52412
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.06
+      },
+      "company_name": "Groww Nifty India Railways PSU ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 33.8
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 27.49
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.18
+      },
+      "sector": "N/A",
+      "symbol": "GROWWRAIL",
+      "ticker": "GROWWRAIL.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.54
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.69
+      },
+      "company_name": "BHARAT Bond ETF - April 2033",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1270.14
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.13
+      },
+      "sector": "N/A",
+      "symbol": "EBBETF0433",
+      "ticker": "EBBETF0433.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 11454
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.08
+      },
+      "company_name": "ICICIPRAMC - ICICIQTY30",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 21.71
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.37
+      },
+      "sector": "N/A",
+      "symbol": "QUAL30IETF",
+      "ticker": "QUAL30IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 47835
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "Zerodha Nifty 1D Rate Liquid ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 111.54
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.03
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDCASE",
+      "ticker": "LIQUIDCASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 89.36
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "HDFC Nifty 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 27.2
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.55
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.04
+      },
+      "sector": "N/A",
+      "symbol": "HDFCNIF100",
+      "ticker": "HDFCNIF100.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 26318
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "Axis NIFTY India Consumption ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 127.64
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.12
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.04
+      },
+      "sector": "N/A",
+      "symbol": "AXISCETF",
+      "ticker": "AXISCETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1764
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.07
+      },
+      "company_name": "UTI BSE Sensex Next 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 92.23
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 22.9
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.08
+      },
+      "sector": "N/A",
+      "symbol": "UTISXN50",
+      "ticker": "UTISXN50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 7401
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.79
+      },
+      "company_name": "Edelweiss Amc Ltd - Edelweiss Mutual Fund - Edelweiss Bharat Bond Exchange Traded Fund, April 2031",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1397.72
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.06
+      },
+      "sector": "N/A",
+      "symbol": "EBBETF0431",
+      "ticker": "EBBETF0431.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 27088
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "SBI Mutual Fund - SBI Nifty 1D Rate Liquid ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1015.71
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "",
+      "symbol": "SBILIQETF",
+      "ticker": "SBILIQETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 475
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "Angel One Mutual Fund - Nifty 1D Rate Liquid Etf Growth",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1035.75
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "AONELIQUID",
+      "ticker": "AONELIQUID.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 25440
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "Groww Nifty 1D Rate Liquid ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 106.75
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "GROWWLIQID",
+      "ticker": "GROWWLIQID.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 97820
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 5.07
+      },
+      "company_name": "ICICI PRUD SENSEX ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 975.84
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.52
+      },
+      "sector": "N/A",
+      "symbol": "SENSEXIETF",
+      "ticker": "SENSEXIETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 10250
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.14
+      },
+      "company_name": "DSP S&P BSE Liquid Rate ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1101.58
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDADD",
+      "ticker": "LIQUIDADD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.26
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "HDFC Nifty 1D Rate Liquid ETF - Growth",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1037.53
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "",
+      "symbol": "HDFCLIQUID",
+      "ticker": "HDFCLIQUID.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 30306
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "Kotak Mahindra Mutual Fund - Kotak Nifty 1d Rate Liquid Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1079.42
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "",
+      "symbol": "LIQUID1",
+      "ticker": "LIQUID1.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.96
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.13
+      },
+      "company_name": "Nippon Life India Asset Management Limited - Nippon India Nifty 1Day Rate LQD Growth ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1017.39
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "",
+      "symbol": "LIQGRWBEES",
+      "ticker": "LIQGRWBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.68
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.12
+      },
+      "company_name": "ICICIPRAMC - CASHIETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1038.3
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "CASHIETF",
+      "ticker": "CASHIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.05
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.14
+      },
+      "company_name": "Mirae Asset Nifty 1D Rate Liquid ETF-Growth",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1061.03
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDPLUS",
+      "ticker": "LIQUIDPLUS.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 42317
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.15
+      },
+      "company_name": "Shriram Nifty 1D Rate Liquid ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1080.8
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDSHRI",
+      "ticker": "LIQUIDSHRI.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 6750
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.12
+      },
+      "company_name": "Bajaj Finserv Nifty 1D Rate Liquid ETF - Growth",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1058.04
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.01
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDBETF",
+      "ticker": "LIQUIDBETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.61
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "HDFC Nifty Next 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 69.25
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 21.28
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.03
+      },
+      "sector": "N/A",
+      "symbol": "HDFCNEXT50",
+      "ticker": "HDFCNEXT50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 40650
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.05
+      },
+      "company_name": "Motilal Oswal BSE Low Volatility ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 38.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 28.52
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.13
+      },
+      "sector": "N/A",
+      "symbol": "MOLOWVOL",
+      "ticker": "MOLOWVOL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 4396
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.14
+      },
+      "company_name": "ICICI Prudential AMC Ltd - ICICI Prudential MF - ICICI Prudential Nifty EV & New Age Automotive ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.97
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.45
+      },
+      "sector": "",
+      "symbol": "EVIETF",
+      "ticker": "EVIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.01
+      }
+    },
+    {
+      "error": "No data available",
+      "exchange": "NSE",
+      "symbol": "ELIQUID",
+      "ticker": "ELIQUID.NS"
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "DSP NIFTY 1D Rate Liquid ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1000.0
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDETF",
+      "ticker": "LIQUIDETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 56558
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.0
+      },
+      "company_name": "MIRAEAMC - EQUAL200",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 13.35
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "",
+      "symbol": "EQUAL200",
+      "ticker": "EQUAL200.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 11327
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.0
+      },
+      "company_name": "Mirae Asset Nifty 1D Rate Liquid ETF-IDCW",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 999.99
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.0
+      },
+      "sector": "N/A",
+      "symbol": "LIQUID",
+      "ticker": "LIQUID.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 85339
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "Groww Asset Management Limited - Groww Mutual Fund - Groww Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.41
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.19
+      },
+      "sector": "",
+      "symbol": "GROWWNIFTY",
+      "ticker": "GROWWNIFTY.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.39
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 21.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 28.66
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.18
+      },
+      "sector": "N/A",
+      "symbol": "NIFTYQLITY",
+      "ticker": "NIFTYQLITY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 23887
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.02
+      },
+      "company_name": "Zerodha Nifty Midcap 150 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 11.05
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 30.27
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.18
+      },
+      "sector": "N/A",
+      "symbol": "MID150CASE",
+      "ticker": "MID150CASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 7.91
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.0
+      },
+      "company_name": "Aditya BSL CRISIL Liquid Ovrnght ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1000.01
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "N/A",
+      "symbol": "ABSLLIQUID",
+      "ticker": "ABSLLIQUID.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1968
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.0
+      },
+      "company_name": "ICICIPRAMC - ICICILIQ",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 999.99
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.0
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDIETF",
+      "ticker": "LIQUIDIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.7
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "SBI NIFTY 1D Rate Liquid ETF - IDCW",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1000.01
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDSBI",
+      "ticker": "LIQUIDSBI.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 22351
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.01
+      },
+      "company_name": "Nippon India ETF Nifty 1D Rate Liquid BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1000.0
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "N/A",
+      "symbol": "LIQUIDBEES",
+      "ticker": "LIQUIDBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 59.45
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.18
+      },
+      "company_name": "Nippon India ETF Nifty Bank BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 606.43
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.76
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.03
+      },
+      "sector": "N/A",
+      "symbol": "BANKBEES",
+      "ticker": "BANKBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.98
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.2
+      },
+      "company_name": "SBI Nifty Private Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 287.5
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 19.67
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.42
+      },
+      "sector": "N/A",
+      "symbol": "SBIETFPB",
+      "ticker": "SBIETFPB.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 9015
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.08
+      },
+      "company_name": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 48.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 33.41
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.16
+      },
+      "sector": "N/A",
+      "symbol": "MIDSMALL",
+      "ticker": "MIDSMALL.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.92
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.6
+      },
+      "company_name": "BHARAT Bond ETF April 2032",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 1309.98
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.05
+      },
+      "sector": "N/A",
+      "symbol": "BBETF0432",
+      "ticker": "BBETF0432.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 27223
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Motilal Oswal Nifty Pse ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 98.4
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.03
+      },
+      "sector": "",
+      "symbol": "MOPSE",
+      "ticker": "MOPSE.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 208
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.18
+      },
+      "company_name": "Groww Asset Management Limited - Groww Mutual Fund - Groww Nifty Next 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 68.19
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.26
+      },
+      "sector": "",
+      "symbol": "GROWWNXT50",
+      "ticker": "GROWWNXT50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1874
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "MIRAEAMC - MAFSETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.34
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.11
+      },
+      "sector": "N/A",
+      "symbol": "BFSI",
+      "ticker": "BFSI.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.44
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Motilal Oswal Nifty 100 Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 26.54
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.04
+      },
+      "sector": "",
+      "symbol": "MONIFTY100",
+      "ticker": "MONIFTY100.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2535
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.15
+      },
+      "company_name": "Nippon India Mutual Fund -Nippon India ETF Nifty Midcap 150",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 227.75
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.07
+      },
+      "sector": "",
+      "symbol": "MID150BEES",
+      "ticker": "MID150BEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 4.14
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.03
+      },
+      "company_name": "Nippon India Mutual Fund - Bse Sensex Next 30 Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 39.83
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.08
+      },
+      "sector": "",
+      "symbol": "SNXT30BEES",
+      "ticker": "SNXT30BEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1666
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "Mirae Asset Nifty500 Multicap 50:25:25 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 16.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.8
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.06
+      },
+      "sector": "N/A",
+      "symbol": "MULTICAP",
+      "ticker": "MULTICAP.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 56945
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.69
+      },
+      "company_name": "SBI Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 601.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.75
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.11
+      },
+      "sector": "N/A",
+      "symbol": "SETFNIFBK",
+      "ticker": "SETFNIFBK.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 16486
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.1
+      },
+      "company_name": "DSPAMC - DSPBANKETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 59.95
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.17
+      },
+      "sector": "N/A",
+      "symbol": "BANKETFADD",
+      "ticker": "BANKETFADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2692
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.06
+      },
+      "company_name": "ICICI PRUDENTIAL NV20 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 14.83
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.4
+      },
+      "sector": "N/A",
+      "symbol": "NV20IETF",
+      "ticker": "NV20IETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.16
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.12
+      },
+      "company_name": "MIRAEAMC - MAESGETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 43.89
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.27
+      },
+      "sector": "N/A",
+      "symbol": "ESG",
+      "ticker": "ESG.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.07
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.22
+      },
+      "company_name": "Mirae Asset Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 596.23
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.71
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "BANKETF",
+      "ticker": "BANKETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 6495
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "Motilal Oswal Nifty 500 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 24.14
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.85
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.08
+      },
+      "sector": "N/A",
+      "symbol": "MONIFTY500",
+      "ticker": "MONIFTY500.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.38
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 1.14
+      },
+      "company_name": "Nippon India ETF Nifty SDL Apr 2026 Top 20 Equal Weight",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 135.16
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.85
+      },
+      "sector": "N/A",
+      "symbol": "SDL26BEES",
+      "ticker": "SDL26BEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2394
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "Angel One Mutual Fund - Angel One Nifty Total Market Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 11.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.88
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.25
+      },
+      "sector": "N/A",
+      "symbol": "AONETOTAL",
+      "ticker": "AONETOTAL.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.3
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "Mirae Asset Nifty India New Age Consumption ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 12.02
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 37.57
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.17
+      },
+      "sector": "N/A",
+      "symbol": "CONSUMER",
+      "ticker": "CONSUMER.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.03
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.07
+      },
+      "company_name": "SBI Nifty Consumption ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 127.6
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.13
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.05
+      },
+      "sector": "N/A",
+      "symbol": "SBIETFCON",
+      "ticker": "SBIETFCON.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 4105
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "Kotak Nifty 100 Low Volatality 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 21.81
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 30.56
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.14
+      },
+      "sector": "N/A",
+      "symbol": "LOWVOL1",
+      "ticker": "LOWVOL1.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.92
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "SBI Nifty50 Equal Weight ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 33.22
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.41
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.03
+      },
+      "sector": "N/A",
+      "symbol": "SBINEQWETF",
+      "ticker": "SBINEQWETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 16875
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.33
+      },
+      "company_name": "Tata Nifty Private Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 292.13
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 19.73
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.11
+      },
+      "sector": "N/A",
+      "symbol": "NPBET",
+      "ticker": "NPBET.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 374
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.11
+      },
+      "company_name": "Aditya Birla Sun Life Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 60.04
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.77
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.18
+      },
+      "sector": "N/A",
+      "symbol": "ABSLBANETF",
+      "ticker": "ABSLBANETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.2
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.13
+      },
+      "company_name": "ICICIPRAMC - ICICITECH",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 40.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.32
+      },
+      "sector": "N/A",
+      "symbol": "ITIETF",
+      "ticker": "ITIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 64.61
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.06
+      },
+      "company_name": "HDFC Nifty IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 38.92
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.38
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.15
+      },
+      "sector": "N/A",
+      "symbol": "HDFCNIFIT",
+      "ticker": "HDFCNIFIT.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 30594
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.0
+      },
+      "company_name": "CPSE ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 91.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 14.87
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.0
+      },
+      "sector": "N/A",
+      "symbol": "CPSEETF",
+      "ticker": "CPSEETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 11.58
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.14
+      },
+      "company_name": "Kotak NIFTY India Consumption ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 127.33
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.26
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.11
+      },
+      "sector": "N/A",
+      "symbol": "CONS",
+      "ticker": "CONS.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.61
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.03
+      },
+      "company_name": "LIC MF Nifty 8-13 yr G-SEC ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.84
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.1
+      },
+      "sector": "N/A",
+      "symbol": "LICNETFGSC",
+      "ticker": "LICNETFGSC.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.43
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.05
+      },
+      "company_name": "ICICIPRAMC - ICICIALPLV",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 27.59
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.18
+      },
+      "sector": "N/A",
+      "symbol": "ALPL30IETF",
+      "ticker": "ALPL30IETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.39
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.1
+      },
+      "company_name": "BHARAT 22 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 115.68
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 14.17
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.09
+      },
+      "sector": "N/A",
+      "symbol": "ICICIB22",
+      "ticker": "ICICIB22.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.14
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.05
+      },
+      "company_name": "Motilal Oswal AMC Ltd. - Motilal Oswal Mutual Fund - Motilal Oswal Nifty Energy ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 35.49
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.14
+      },
+      "sector": "",
+      "symbol": "MOENERGY",
+      "ticker": "MOENERGY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 57361
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.93
+      },
+      "company_name": "HDFCAMC - HDFCNIFTY",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 289.42
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.32
+      },
+      "sector": "N/A",
+      "symbol": "HDFCNIFTY",
+      "ticker": "HDFCNIFTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 33368
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.13
+      },
+      "company_name": "Mirae Asset BSE Sensex ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 86.74
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.11
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.15
+      },
+      "sector": "N/A",
+      "symbol": "SENSEXETF",
+      "ticker": "SENSEXETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 14025
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.05
+      },
+      "company_name": "Mirae Asset BSE Select IPO ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 47.95
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.1
+      },
+      "sector": "",
+      "symbol": "SELECTIPO",
+      "ticker": "SELECTIPO.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 38734
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.05
+      },
+      "company_name": "ICICI Prudential Nifty Oil & Gas ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 12.14
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 13.54
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.41
+      },
+      "sector": "N/A",
+      "symbol": "OILIETF",
+      "ticker": "OILIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 25.43
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.05
+      },
+      "company_name": "ICICIPRAMC - ICICI500",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 40.01
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.12
+      },
+      "sector": "N/A",
+      "symbol": "BSE500IETF",
+      "ticker": "BSE500IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 49665
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.45
+      },
+      "company_name": "MIRAE Asset Mutual Fund - Mirae Asset Nifty50 Equal Weight ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 331.53
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.14
+      },
+      "sector": "",
+      "symbol": "EQUAL50",
+      "ticker": "EQUAL50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 834
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.62
+      },
+      "company_name": "Nippon India ETF Nifty 50 BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 292.68
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.06
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.21
+      },
+      "sector": "N/A",
+      "symbol": "NIFTYBEES",
+      "ticker": "NIFTYBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 50.55
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "Kotak Mahindra Mutual Fund - Kotak Nifty 100 Equal Weight Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 33.76
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.12
+      },
+      "sector": "",
+      "symbol": "NIFTY100EW",
+      "ticker": "NIFTY100EW.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 11900
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.12
+      },
+      "company_name": "UTI Nifty Bank Exchange Traded Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 60.63
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.73
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "UTIBANKETF",
+      "ticker": "UTIBANKETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 12482
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.53
+      },
+      "company_name": "DSP Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 270.8
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.1
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "NIFTY50ADD",
+      "ticker": "NIFTY50ADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 8652
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.13
+      },
+      "company_name": "Bajaj Finserv Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 59.45
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.69
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.22
+      },
+      "sector": "N/A",
+      "symbol": "BANKBETF",
+      "ticker": "BANKBETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 8952
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.5
+      },
+      "company_name": "NIP IND ETF NIFTY 100",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 279.51
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.18
+      },
+      "sector": "N/A",
+      "symbol": "NIF100BEES",
+      "ticker": "NIF100BEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 16031
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.26
+      },
+      "company_name": "Mirae Asset Nifty 100 Low Volatility 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 213.87
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 30.59
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.12
+      },
+      "sector": "N/A",
+      "symbol": "LOWVOL",
+      "ticker": "LOWVOL.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1133
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.01
+      },
+      "company_name": "ICICI Prudential Nifty Auto ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 28.19
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 28.14
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.04
+      },
+      "sector": "N/A",
+      "symbol": "AUTOIETF",
+      "ticker": "AUTOIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 9.58
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.76
+      },
+      "company_name": "Axis NIFTY 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 284.32
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.05
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.27
+      },
+      "sector": "N/A",
+      "symbol": "AXISNIFTY",
+      "ticker": "AXISNIFTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 4458
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.24
+      },
+      "company_name": "NIP IND ETF CONSUMPTION",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 137.57
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.17
+      },
+      "sector": "",
+      "symbol": "CONSUMBEES",
+      "ticker": "CONSUMBEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 56352
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.06
+      },
+      "company_name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 53.51
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 40.86
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.11
+      },
+      "sector": "N/A",
+      "symbol": "MOMENTUM50",
+      "ticker": "MOMENTUM50.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.07
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.5
+      },
+      "company_name": "DSP Nifty Midcap 150 Quality 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 247.35
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 35.59
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "MIDQ50ADD",
+      "ticker": "MIDQ50ADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 5670
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.39
+      },
+      "company_name": "Motilal Oswal BSE Quality ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 195.89
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.97
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "MOQUALITY",
+      "ticker": "MOQUALITY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 231
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.08
+      },
+      "company_name": "Mirae Asset Nifty EV and New Age Automotive ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 31.68
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.26
+      },
+      "sector": "N/A",
+      "symbol": "EVINDIA",
+      "ticker": "EVINDIA.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.51
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.1
+      },
+      "company_name": "Aditya Birla Sun Life Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.11
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.07
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.33
+      },
+      "sector": "N/A",
+      "symbol": "BSLNIFTY",
+      "ticker": "BSLNIFTY.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.19
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.06
+      },
+      "company_name": "Kotak MSCI India ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.69
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.16
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "MSCIINDIA",
+      "ticker": "MSCIINDIA.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 2154
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.52
+      },
+      "company_name": "Mirae Asset Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 279.68
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.95
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.19
+      },
+      "sector": "N/A",
+      "symbol": "NIFTYETF",
+      "ticker": "NIFTYETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.12
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.23
+      },
+      "company_name": "Axis NIFTY Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 603.77
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.72
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "N/A",
+      "symbol": "AXISBNKETF",
+      "ticker": "AXISBNKETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 257
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.1
+      },
+      "company_name": "Mirae Asset Investment Managers (I) Pvt Ltd - Mirae Mf-Mirae Asset Nifty Energy Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 35.39
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.28
+      },
+      "sector": "",
+      "symbol": "ENERGY",
+      "ticker": "ENERGY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 6213
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.02
+      },
+      "company_name": "Groww Mutual Fund - Groww Nifty 200 ETF FoF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 11.67
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.17
+      },
+      "sector": "",
+      "symbol": "GROWWN200",
+      "ticker": "GROWWN200.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 33415
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.11
+      },
+      "company_name": "Groww Nifty EV & New Age Automotive ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 30.78
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 31.59
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.36
+      },
+      "sector": "N/A",
+      "symbol": "GROWWEV",
+      "ticker": "GROWWEV.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.06
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.23
+      },
+      "company_name": "DSPAMC - DSPSENXETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 86.8
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.26
+      },
+      "sector": "N/A",
+      "symbol": "SENSEXADD",
+      "ticker": "SENSEXADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1346
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -8.03
+      },
+      "company_name": "Quantum Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 2829.26
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.06
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.28
+      },
+      "sector": "N/A",
+      "symbol": "QNIFTY",
+      "ticker": "QNIFTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 138
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.17
+      },
+      "company_name": "ICICIPRAMC - ICICIFMCG",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 58.85
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.29
+      },
+      "sector": "N/A",
+      "symbol": "FMCGIETF",
+      "ticker": "FMCGIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 37.26
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.05
+      },
+      "company_name": "Kotak Mahindra Amc Limited - Kotak Nifty 200 Quality 30 Index Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 21.31
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.23
+      },
+      "sector": "",
+      "symbol": "QUALITY30",
+      "ticker": "QUALITY30.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 724
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "Dsp Mutual Fund - Dsp Nifty500 Flexicap Quality 30 Index Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.74
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.37
+      },
+      "sector": "",
+      "symbol": "FLEXIADD",
+      "ticker": "FLEXIADD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.7
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.18
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Motilal Oswal Nifty India Tourism ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 88.06
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.2
+      },
+      "sector": "",
+      "symbol": "MOTOUR",
+      "ticker": "MOTOUR.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 5857
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "Zerodha Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.33
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.39
+      },
+      "sector": "",
+      "symbol": "NIFTYCASE",
+      "ticker": "NIFTYCASE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.07
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "ICICI PR NIF LW VL 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 22.96
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.17
+      },
+      "sector": "N/A",
+      "symbol": "LOWVOLIETF",
+      "ticker": "LOWVOLIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.69
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.04
+      },
+      "company_name": "Motilal Oswal M50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 269.01
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.39
+      },
+      "sector": "N/A",
+      "symbol": "MOM50",
+      "ticker": "MOM50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 3722
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.89
+      },
+      "company_name": "ICICI Prudential Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 291.28
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.07
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.3
+      },
+      "sector": "N/A",
+      "symbol": "NIFTYIETF",
+      "ticker": "NIFTYIETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 3.14
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.99
+      },
+      "company_name": "Nippon India ETF Nifty 50 Shariah BeES",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 507.5
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.33
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.19
+      },
+      "sector": "N/A",
+      "symbol": "SHARIABEES",
+      "ticker": "SHARIABEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 3570
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.8
+      },
+      "company_name": "UTI Nifty 50 Exchange Traded Fund",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 285.14
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.09
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.28
+      },
+      "sector": "N/A",
+      "symbol": "UTINIFTETF",
+      "ticker": "UTINIFTETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 65064
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.53
+      },
+      "company_name": "Nippon India Nifty Auto ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 280.57
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 27.89
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.19
+      },
+      "sector": "N/A",
+      "symbol": "AUTOBEES",
+      "ticker": "AUTOBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.52
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.08
+      },
+      "company_name": "Mirae Asset Mutual Fund - Mirae Asset Nifty India Internet Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 14.33
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.56
+      },
+      "sector": "",
+      "symbol": "INTERNET",
+      "ticker": "INTERNET.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 61997
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.08
+      },
+      "company_name": "Aditya Birla Sun Life S&P BSE Sensex ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 84.93
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.12
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.09
+      },
+      "sector": "N/A",
+      "symbol": "BSLSENETFG",
+      "ticker": "BSLSENETFG.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 4135
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.14
+      },
+      "company_name": "Tata Nifty India Digital ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 97.42
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 34.24
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.14
+      },
+      "sector": "N/A",
+      "symbol": "TNIDETF",
+      "ticker": "TNIDETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 24201
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.04
+      },
+      "company_name": "Icici Prudential Mutual Fund - Nifty Top 15 Equal Weight ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.97
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.36
+      },
+      "sector": "",
+      "symbol": "TOP15IETF",
+      "ticker": "TOP15IETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 49690
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.05
+      },
+      "company_name": "LIC MF Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 287.38
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.92
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.36
+      },
+      "sector": "N/A",
+      "symbol": "LICNETFN50",
+      "ticker": "LICNETFN50.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 702
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.07
+      },
+      "company_name": "Groww Asset Management Limited - Groww Mf-Groww Nifty India Internet Etf",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.64
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.65
+      },
+      "sector": "",
+      "symbol": "GROWWNET",
+      "ticker": "GROWWNET.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.61
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.32
+      },
+      "company_name": "HDFC Mutual Fund - HDFC Sensex ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 95.43
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.33
+      },
+      "sector": "N/A",
+      "symbol": "HDFCSENSEX",
+      "ticker": "HDFCSENSEX.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 19044
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.48
+      },
+      "company_name": "DSP Nifty 50 Equal Weight ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 341.65
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 25.44
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.14
+      },
+      "sector": "N/A",
+      "symbol": "EQUAL50ADD",
+      "ticker": "EQUAL50ADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 3429
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.48
+      },
+      "company_name": "HDFC NIFTY50 Value 20 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 136.94
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 17.5
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.35
+      },
+      "sector": "N/A",
+      "symbol": "HDFCVALUE",
+      "ticker": "HDFCVALUE.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1084
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -2.4
+      },
+      "company_name": "Axis NIFTY IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 401.09
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.36
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.59
+      },
+      "sector": "N/A",
+      "symbol": "AXISTECETF",
+      "ticker": "AXISTECETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1526
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.02
+      },
+      "company_name": "Kotak Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 285.31
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.05
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.36
+      },
+      "sector": "N/A",
+      "symbol": "NIFTY1",
+      "ticker": "NIFTY1.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 74590
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.87
+      },
+      "company_name": "UTI Nifty Midcap 150 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 222.29
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 28.21
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.39
+      },
+      "sector": "N/A",
+      "symbol": "NIFMID150",
+      "ticker": "NIFMID150.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 529
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -12868.93
+      },
+      "company_name": "NIFTY50 VALUE 20",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 151.62
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 1499.08
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -98.84
+      },
+      "sector": "N/A",
+      "symbol": "NV20",
+      "ticker": "NV20.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 8647
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.2
+      },
+      "company_name": "Motilal Oswal Mutual Fund - Motilal Oswal BSE Select IPO ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 48.03
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.41
+      },
+      "sector": "",
+      "symbol": "MOIPO",
+      "ticker": "MOIPO.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 565
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.23
+      },
+      "company_name": "Kotak Nifty IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 40.29
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.31
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.57
+      },
+      "sector": "N/A",
+      "symbol": "IT",
+      "ticker": "IT.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.85
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.26
+      },
+      "company_name": "SBI Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 276.7
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.06
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.45
+      },
+      "sector": "N/A",
+      "symbol": "SETFNIF50",
+      "ticker": "SETFNIF50.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 5.04
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -2.05
+      },
+      "company_name": "SBI Nifty IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 404.2
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.39
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.5
+      },
+      "sector": "N/A",
+      "symbol": "SBIETFIT",
+      "ticker": "SBIETFIT.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 4581
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.25
+      },
+      "company_name": "Nippon India ETF Nifty IT",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 40.42
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.35
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.61
+      },
+      "sector": "N/A",
+      "symbol": "ITBEES",
+      "ticker": "ITBEES.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 93.17
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.3
+      },
+      "company_name": "Tata Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 279.61
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.05
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.46
+      },
+      "sector": "N/A",
+      "symbol": "NETF",
+      "ticker": "NETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 359
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.7
+      },
+      "company_name": "Groww Asset Management Limited - Groww Mutual Fund - Groww Nifty Midcap 150 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 220.56
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.32
+      },
+      "sector": "",
+      "symbol": "GROWWMC150",
+      "ticker": "GROWWMC150.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1836
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.21
+      },
+      "company_name": "DSPAMC - DSPITETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 38.55
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": "N/A"
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.54
+      },
+      "sector": "N/A",
+      "symbol": "ITETFADD",
+      "ticker": "ITETFADD.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 18342
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.14
+      },
+      "company_name": "Aditya Birla Sun Life Nifty PSE ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 10.01
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 12.94
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -1.38
+      },
+      "sector": "N/A",
+      "symbol": "ABSLPSE",
+      "ticker": "ABSLPSE.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.1
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.0
+      },
+      "company_name": "Invesco India Nifty 50 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 2951.47
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 23.87
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.0
+      },
+      "sector": "N/A",
+      "symbol": "IVZINNIFTY",
+      "ticker": "IVZINNIFTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 87
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -2.77
+      },
+      "company_name": "UTI Nifty IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 382.27
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.37
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.72
+      },
+      "sector": "N/A",
+      "symbol": "NIFITETF",
+      "ticker": "NIFITETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 3062
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -3.12
+      },
+      "company_name": "Kotak Nifty Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 608.54
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.76
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.51
+      },
+      "sector": "N/A",
+      "symbol": "BANKNIFTY1",
+      "ticker": "BANKNIFTY1.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 7681
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": 0.12
+      },
+      "company_name": "Baroda BNP Paribas NIFTY Bank ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 59.33
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 16.88
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": 0.2
+      },
+      "sector": "N/A",
+      "symbol": "BBNPNBETF",
+      "ticker": "BBNPNBETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 443
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.48
+      },
+      "company_name": "DSP Nifty Top 10 Equal Weight ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 100.4
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 22.96
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.48
+      },
+      "sector": "N/A",
+      "symbol": "TOP10ADD",
+      "ticker": "TOP10ADD.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 1.53
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.78
+      },
+      "company_name": "HDFC NIFTY Growth Sectors 15 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 127.24
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 31.95
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.61
+      },
+      "sector": "N/A",
+      "symbol": "HDFCGROWTH",
+      "ticker": "HDFCGROWTH.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 6679
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -1.47
+      },
+      "company_name": "BFAM - NIFTYBETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 263.83
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.05
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.55
+      },
+      "sector": "N/A",
+      "symbol": "NIFTYBETF",
+      "ticker": "NIFTYBETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 945
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.2
+      },
+      "company_name": "Mirae Asset Nifty IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 38.55
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.37
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.52
+      },
+      "sector": "N/A",
+      "symbol": "ITETF",
+      "ticker": "ITETF.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 2.54
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.63
+      },
+      "company_name": "SBI NIFTY 200 Quality 30 ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 228.99
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 28.7
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.27
+      },
+      "sector": "N/A",
+      "symbol": "SBIETFQLTY",
+      "ticker": "SBIETFQLTY.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1786
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.32
+      },
+      "company_name": "Axis BSE Sensex ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 87.27
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.07
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.37
+      },
+      "sector": "N/A",
+      "symbol": "AXSENSEX",
+      "ticker": "AXSENSEX.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 1439
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.71
+      },
+      "company_name": "Nippon India ETF Nifty 50 Value 20",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 152.06
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 17.51
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.46
+      },
+      "sector": "N/A",
+      "symbol": "NV20BEES",
+      "ticker": "NV20BEES.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 5597
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -3.73
+      },
+      "company_name": "UTI BSE Sensex ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 931.27
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 24.12
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.4
+      },
+      "sector": "N/A",
+      "symbol": "UTISENSETF",
+      "ticker": "UTISENSETF.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 465
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.2
+      },
+      "company_name": "Aditya Birla Sun Life Nifty IT ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 39.44
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 26.28
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -0.5
+      },
+      "sector": "N/A",
+      "symbol": "TECH",
+      "ticker": "TECH.NS",
+      "volume": {
+        "unit": "Shares",
+        "value": 12668
+      }
+    },
+    {
+      "change": {
+        "unit": "INR",
+        "value": -0.62
+      },
+      "company_name": "Mirae Asset Hang Seng TECH ETF",
+      "exchange": "NSE",
+      "last_price": {
+        "unit": "INR",
+        "value": 24.9
+      },
+      "market_cap": {
+        "unit": "INR",
+        "value": "N/A"
+      },
+      "pe_ratio": {
+        "unit": "x",
+        "value": 18.19
+      },
+      "percent_change": {
+        "unit": "%",
+        "value": -2.43
+      },
+      "sector": "N/A",
+      "symbol": "MAHKTECH",
+      "ticker": "MAHKTECH.NS",
+      "volume": {
+        "unit": "Lakhs Shares",
+        "value": 6.15
+      }
+    }
+  ],
+  "timestamp": "2025-11-25 20:01:13"
+}

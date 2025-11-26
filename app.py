@@ -11,7 +11,7 @@ from apscheduler.triggers.cron import CronTrigger
 from tasks import *
 import os
 
-def create_app():
+def create_app(*args, **kwargs):
     app = Flask(__name__)
     if 'etfs.csv' not in os.listdir('.'):
         print("etfs.csv not found in current directory. Building it from raw.csv...")

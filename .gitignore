@@ -98,5 +98,6 @@ coverage.xml
 !raw.csv
 *.json
 *.txt
+!requirements.txt
 *.ico
 !/static/favicon.ico
